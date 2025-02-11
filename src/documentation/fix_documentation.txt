@@ -14,4 +14,7 @@ Fejl I legacy koden
 
      Ingen begrænsning på loginforsøg, brute-force angreb er mulige. 
 
-    Debug er false, som nok bør være true for at lette fejlfinding. 
+    Debug er false, som nok bør være true for at lette fejlfinding.
+
+
+    Test af Pull request template (Kan slettes efterfølgende)
