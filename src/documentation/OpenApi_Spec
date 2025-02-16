@@ -1,15 +1,15 @@
 {
     "openapi":"3.0.0",
     "info":{
-        "title":"whoknows_variations",
-        "version":"0.1.0"
+        "title":"whoknows API",
+        "version":"1.0.0"
     },
 
     "paths":{
       "/":{
         "get":{
             "summary":"Serve Root Page",
-            "operationId":"serve_root_page__get",
+            "operationId":"getRootPage",
             "responses":{
               "200":{
                 "description": "Successful Response",
